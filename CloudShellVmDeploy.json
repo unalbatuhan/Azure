@@ -1,0 +1,11 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResourceGroup/providers/Microsoft.Compute/virtualMachines/myVM",
+  "location": "eastus",
+  "macAddress": "00-0D-3A-1E-1B-3B",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.5",
+  "publicIpAddress": "104.211.9.245",
+  "resourceGroup": "myResourceGroup",
+  "zones": ""
+}
